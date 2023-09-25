@@ -7,3 +7,7 @@
 
 
 Source : https://guideofdragons.com 
+
+```bash
+npx tailwindcss -i ./src/css/tailwind.css -o ./dist/output.css --watch
+```
